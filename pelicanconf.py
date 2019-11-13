@@ -32,9 +32,8 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = False
 
 THEME = "/home/mersoj/pelican-themes/MinimalXY"
-#THEME = "/home/mersoj/pelican-themes/bluegrasshopper"
-#FILES_TO_COPY = (('/home/mersoj/pelican-themes/bluegrasshopper/static/favicon.ico', 'favicon.ico'),)
-#STATIC_PATHS = ("static/",)
+STATIC_PATHS = ("static/CNAME",)
+EXTRA_PATH_METADATA = {"static/CNAME" : {"path" : "CNAME"}, }
 
 DISPLAY_PAGES_ON_MENU = True
 
