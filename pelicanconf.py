@@ -32,7 +32,7 @@ AUTHOR_FEED_RSS = None
 DEFAULT_PAGINATION = False
 
 THEME = "/home/mersoj/pelican-themes/MinimalXY"
-STATIC_PATHS = ("static/CNAME",)
+STATIC_PATHS = ("static/CNAME","images",)
 EXTRA_PATH_METADATA = {"static/CNAME" : {"path" : "CNAME"}, }
 
 DISPLAY_PAGES_ON_MENU = True

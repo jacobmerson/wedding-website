@@ -4,6 +4,8 @@ Save_As: index.html
 URL: index.html
 Status: published
 
+![Image of Maureen and Jacob](images/Maureen-and-Jacob_Homepage.jpg)
+
 Welcome to our wedding website! We have some exciting events plan for the weekend.
 Explore the different tabs and reach out with any questions you might have.
 
