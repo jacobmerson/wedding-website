@@ -5,6 +5,8 @@ Date: 11-11-2019 2:35
 The capital region has some interesting and unique attractions that we would 
 recommend seeing during your stay if you have the time or inclination.
 
+* [Troy Night Out](http://www.downtowntroy.org/troy-night-out) -- Friday night from 5-9PM lots of shopping and food trucks.
+
 * [Troy Farmers Market](https://www.troymarket.org/) -- this is a big market and interesting to go to
   on Saturday mornings just to walk and look 
 
