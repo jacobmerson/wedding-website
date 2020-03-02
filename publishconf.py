@@ -11,8 +11,9 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://jacobmerson.github.io/wedding-website/'
-RELATIVE_URLS = False
+#SITEURL = 'https://jacobmerson.github.io/wedding-website/'
+SITEURL = ''
+RELATIVE_URLS = True
 
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
